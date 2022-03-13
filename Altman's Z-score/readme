@@ -1,0 +1,35 @@
+--------------------------------------------------------
+The Coding Steps
+--------------------------------------------------------
+
+1. The ingoring "warings"
+2. To load data
+3. The count and rate of active firms
+4. The count and rate of inactive firms
+
+---------------------------------------------------------
+PART I: STATISTICS
+---------------------------------------------------------
+5. The One-way ANOVA test
+6. The test of the Normality
+7. The test of Homogeneity of Variances 
+8. Tamhane’s T2 all-pairs comparison test 
+   for normally distributed data with unequal variances. 
+
+----------------------------------------------------------
+PART II: The Neural Net training
+----------------------------------------------------------
+9. Neural Net
+  9.1. The splitting data
+  9.2. To analyze class imbalance 
+  9.3. The weighting for the imlanabce
+  9.4. Normalize the data using training set statistics
+  9.5. Build a binary classification model
+  9.6. Define the keras model
+  9.7. Compile the keras model
+  9.8. Generate a print
+  9.9. Fit the keras model on the dataset
+  9.10. Generate generalization metrics
+  9.11. Updating on border of parts of the data
+  9.12. Increase fold number
+10. To look weights
